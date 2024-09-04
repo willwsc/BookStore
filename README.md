@@ -5,4 +5,4 @@ Projeto de banco de dados relacional para uma livraria
 ![](modeloConceitual.png)
 
 #modeloLogico
-![](modeloLogico.png)
+![](modeloLgico.png)
